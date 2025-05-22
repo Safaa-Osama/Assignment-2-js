@@ -1,0 +1,30 @@
+
+body{
+    margin: 0;
+    background-image: linear-gradient(rgba(0,0,0, .6)), url(../images/clouds.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.max-w{
+    max-width: 600px;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    letter-spacing: 2px;
+
+}
+h3{
+    font-weight: 400;
+    font-size: 35px;
+}
+
+#quote {
+      font-size: 24px;
+      margin: 10px auto ;
+    }
